@@ -1,0 +1,19 @@
+Es importante que las plataformas tecnológicas comunitarias funcionen
+de manera estable y segura porque de ellas depende la comunicación
+y la organización de muchas personas que confían en esas herramientas.
+
+Si una plataforma falla o tiene problemas de seguridad, los ciudadanos
+no pueden reportar incidencias, consultar información o participar en
+los procesos que se gestionan a través de ella.
+
+Un servidor estable garantiza que el servicio esté disponible en todo
+momento, especialmente en situaciones de emergencia donde la comunidad
+necesita acceder a información de forma rápida y confiable.
+
+La seguridad del servidor también es esencial para proteger los datos
+de los usuarios y evitar que personas no autorizadas accedan a información
+sensible que podría afectar a la comunidad.
+
+En resumen, un servidor estable y seguro es la base sobre la que se
+construye la confianza de la comunidad en las plataformas tecnológicas
+que apoyan sus procesos participativos y de organización colectiva.
